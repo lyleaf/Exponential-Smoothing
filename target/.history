@@ -1,0 +1,63 @@
+runMain TestSimpleExpSmoothing
+package com.amadeus.ti.forecast.ExponentialSmoothing
+import scala.math._
+import scala.io.Source
+import java.io._
+import breeze.linalg.{DenseMatrix => BDM, DenseVector => BDV, argmax , sum => brzSum, max}
+import scala.math._
+import scala.io.Source
+import java.io._
+import breeze.linalg.{DenseMatrix => BDM, DenseVector => BDV, argmax , sum => brzSum, max}
+import scala.math._
+consloe
+console
+runMain TestTrendExpSmoothing
+a 
+brzL
+a = List(1,2,3)
+val a = List(1,2,3)
+val a = new List(1,2,3)
+val ii = 1
+val a = 1
+console
+runMain TestTrendExpSmoothing
+console
+runMain TestTrendExpSmoothing
+  val y = List( 17.55340, 21.86010, 23.88660, 26.92930, 26.88850, 28.83140, 30.07510, 30.95350, 30.18570, 31.57970,32.57757, 33.47740 ,39.02158, 41.38643, 41.59655)
+V
+console
+    val Model = new TrendExponentialSmoothingModel(number,l,b)
+number
+console
+runMain TestTrendExpSmoothing
+console
+runMain TestTrendExpSmoothing
+console
+runMain TestTrendExpSmoothing
+console
+runMain TestTrendExpSmoothing
+console
+runMain TestTrendExpSmoothing
+console 
+runMain TestTrendExpSmoothing
+console
+runMain testSeasonalExpSmoothing
+runMain TestSeasonalExpSmoothing
+console
+runMain TestSeasonalExpSmoothing
+console
+run TestSeasonalExpSmoothing
+runMain TestSeasonalExpSmoothing
+val y = List( 41.72746, 24.04185, 32.32810, 37.32871,
+                 46.21315, 29.34633, 36.48291, 42.97772,
+                 48.90152, 31.18022, 37.71788, 40.42021,
+                 51.20686, 31.88723, 40.97826, 43.77249,
+                 55.55857, 33.85092, 42.07638, 45.64229,
+val y = List( 41.72746, 24.04185, 32.32810, 37.32871,
+                 46.21315, 29.34633, 36.48291, 42.97772,
+                 48.90152, 31.18022, 37.71788, 40.42021,
+                 51.20686, 31.88723, 40.97826, 43.77249,
+                 55.55857, 33.85092, 42.07638, 45.64229,
+                 59.76678, 35.19188, 44.31974, 47.91374)
+import scala.math._
+console
